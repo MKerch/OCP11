@@ -1,0 +1,787 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="66ccf25b-da63-4236-a858-25bf59ea7688" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/LambdaExpressionsAndFunctionalInterfaces/DogExemple/FunctionalInterfases/Function/main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="17" column="37" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/LambdaExpressionsAndFunctionalInterfaces/DogExemple/FunctionalInterfases/diff/UnaryOparator/UnaryOperatorClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/LambdaExpressionsAndFunctionalInterfaces/DogExemple/FunctionalInterfases/diff/MethodReference/main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="194">
+              <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/LambdaExpressionsAndFunctionalInterfaces/DogExemple/FunctionalInterfases/diff/MethodReference/MethodRefs.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#556#557#0" expanded="true" />
+                <element signature="e#592#593#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/LambdaExpressionsAndFunctionalInterfaces/DogExemple/FunctionalInterfases/diff/MethodReference/TriPredicate.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="233">
+              <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/LambdaExpressionsAndFunctionalInterfaces/DogExemple/FunctionalInterfases/diff/MethodReference/RunnableClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/LambdaExpressionsAndFunctionalInterfaces/DogExemple/FunctionalInterfases/Function/BifunctionClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/LambdaExpressionsAndFunctionalInterfaces/DogExemple/FunctionalInterfases/Function/Functions.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-263">
+              <caret line="9" column="19" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/function/BiFunction.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="43" column="35" selection-start-line="43" selection-start-column="35" selection-end-line="43" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/myapp/IO/mainPaths.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="214">
+              <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/myapp/IO/mainIO.java" />
+        <option value="$PROJECT_DIR$/src/main/java/myapp/IO/mainPaths.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LambdaExpressionsAndFunctionalInterfaces/Lumbda.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LambdaExpressionsAndFunctionalInterfaces/DogQuerier.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LambdaExpressionsAndFunctionalInterfaces/main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LambdaExpressionsAndFunctionalInterfaces/Dog.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LambdaExpressionsAndFunctionalInterfaces/DogExemple/all/main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LambdaExpressionsAndFunctionalInterfaces/DogExemple/sheep/Sheep.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LambdaExpressionsAndFunctionalInterfaces/DogExemple/sheep/SheepQuerier.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LambdaExpressionsAndFunctionalInterfaces/DogExemple/sheep/main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LambdaExpressionsAndFunctionalInterfaces/DogExemple/DogQuerier.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LambdaExpressionsAndFunctionalInterfaces/DogExemple/main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LambdaExpressionsAndFunctionalInterfaces/DogExemple/DogPlay.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LambdaExpressionsAndFunctionalInterfaces/DogExemple/lambdas/DogPlay.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LambdaExpressionsAndFunctionalInterfaces/lambdas/main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LambdaExpressionsAndFunctionalInterfaces/DogExemple/lambdas/main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LambdaExpressionsAndFunctionalInterfaces/DogExemple/lambdas/Dog.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LambdaExpressionsAndFunctionalInterfaces/DogExemple/FunctionalInterfases/supplier/ьфшт.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LambdaExpressionsAndFunctionalInterfaces/DogExemple/FunctionalInterfases/supplier/main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LambdaExpressionsAndFunctionalInterfaces/DogExemple/FunctionalInterfases/supplier/Socket.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LambdaExpressionsAndFunctionalInterfaces/DogExemple/FunctionalInterfases/supplier/SocketClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LambdaExpressionsAndFunctionalInterfaces/DogExemple/FunctionalInterfases/supplier/Consumer/main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LambdaExpressionsAndFunctionalInterfaces/DogExemple/FunctionalInterfases/supplier/Consumer/ConsumersClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LambdaExpressionsAndFunctionalInterfaces/DogExemple/FunctionalInterfases/supplier/Consumer/Dog/Dog.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LambdaExpressionsAndFunctionalInterfaces/DogExemple/FunctionalInterfases/supplier/Consumer/Dog/DogsConsumer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LambdaExpressionsAndFunctionalInterfaces/DogExemple/FunctionalInterfases/supplier/Predicate/Dog.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LambdaExpressionsAndFunctionalInterfaces/DogExemple/FunctionalInterfases/supplier/Predicate/DogQuerier.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LambdaExpressionsAndFunctionalInterfaces/DogExemple/FunctionalInterfases/supplier/Predicate/main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LambdaExpressionsAndFunctionalInterfaces/DogExemple/FunctionalInterfases/Supplie/SocketClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LambdaExpressionsAndFunctionalInterfaces/DogExemple/FunctionalInterfases/Supplier/SocketClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LambdaExpressionsAndFunctionalInterfaces/DogExemple/FunctionalInterfases/Predicate/main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LambdaExpressionsAndFunctionalInterfaces/DogExemple/FunctionalInterfases/Predicate/Dog.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LambdaExpressionsAndFunctionalInterfaces/DogExemple/FunctionalInterfases/Predicate/TestDogPredicate.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LambdaExpressionsAndFunctionalInterfaces/DogExemple/FunctionalInterfases/Predicate/IntPredicateExampl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LambdaExpressionsAndFunctionalInterfaces/DogExemple/FunctionalInterfases/Predicate/Book.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LambdaExpressionsAndFunctionalInterfaces/DogExemple/FunctionalInterfases/Predicate/BiPredicateExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LambdaExpressionsAndFunctionalInterfaces/DogExemple/FunctionalInterfases/Function/BifunctionClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LambdaExpressionsAndFunctionalInterfaces/DogExemple/FunctionalInterfases/Function/Functions.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LambdaExpressionsAndFunctionalInterfaces/DogExemple/FunctionalInterfases/Function/main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LambdaExpressionsAndFunctionalInterfaces/DogExemple/FunctionalInterfases/diff/UnaryOperator/UnaryOperatorClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LambdaExpressionsAndFunctionalInterfaces/DogExemple/FunctionalInterfases/diff/UnaryOperator/Unary/UnaryOperatorClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LambdaExpressionsAndFunctionalInterfaces/DogExemple/FunctionalInterfases/diff/Unary/UnaryOperatorClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LambdaExpressionsAndFunctionalInterfaces/DogExemple/FunctionalInterfases/diff/UnaryOparator/UnaryOperatorClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LambdaExpressionsAndFunctionalInterfaces/DogExemple/FunctionalInterfases/diff/MethodReference/main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LambdaExpressionsAndFunctionalInterfaces/DogExemple/FunctionalInterfases/diff/MethodReference/MethodRefs.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LambdaExpressionsAndFunctionalInterfaces/DogExemple/FunctionalInterfases/diff/MethodReference/TreePredicat.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LambdaExpressionsAndFunctionalInterfaces/DogExemple/FunctionalInterfases/diff/MethodReference/TreePredicate.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LambdaExpressionsAndFunctionalInterfaces/DogExemple/FunctionalInterfases/diff/MethodReference/TriPredicate.java" />
+        <option value="$PROJECT_DIR$/src/main/java/LambdaExpressionsAndFunctionalInterfaces/DogExemple/FunctionalInterfases/diff/MethodReference/RunnableClass.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-11" />
+    <option name="y" value="-11" />
+    <option name="width" value="1940" />
+    <option name="height" value="1100" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ocp_11" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OCP_11" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ocp_11" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OCP_11" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ocp_11" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OCP_11" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ocp_11" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OCP_11" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ocp_11" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OCP_11" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="DogExemple" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="CatdeaLogs" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578689081371" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="LambdaExpressionsAndFunctionalInterfaces.DogExemple.FunctionalInterfases.supplier.Predicate" />
+      <recent name="LambdaExpressionsAndFunctionalInterfaces.DogExemple.sheep" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.TriPredicateImpl">
+    <configuration name="Functions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LambdaExpressionsAndFunctionalInterfaces.DogExemple.FunctionalInterfases.Function.Functions" />
+      <module name="OCP_11" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LambdaExpressionsAndFunctionalInterfaces.DogExemple.FunctionalInterfases.Function.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodRefs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LambdaExpressionsAndFunctionalInterfaces.DogExemple.FunctionalInterfases.diff.MethodReference.MethodRefs" />
+      <module name="OCP_11" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LambdaExpressionsAndFunctionalInterfaces.DogExemple.FunctionalInterfases.diff.MethodReference.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TriPredicateImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LambdaExpressionsAndFunctionalInterfaces.DogExemple.FunctionalInterfases.diff.MethodReference.TriPredicateImpl" />
+      <module name="OCP_11" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LambdaExpressionsAndFunctionalInterfaces.DogExemple.FunctionalInterfases.diff.MethodReference.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UnaryOperatorClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LambdaExpressionsAndFunctionalInterfaces.DogExemple.FunctionalInterfases.diff.UnaryOperator.Unary.UnaryOperatorClass" />
+      <module name="OCP_11" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LambdaExpressionsAndFunctionalInterfaces.DogExemple.FunctionalInterfases.diff.UnaryOperator.Unary.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LambdaExpressionsAndFunctionalInterfaces.DogExemple.FunctionalInterfases.Function.main" />
+      <module name="OCP_11" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LambdaExpressionsAndFunctionalInterfaces.DogExemple.FunctionalInterfases.Function.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TriPredicateImpl" />
+        <item itemvalue="Application.MethodRefs" />
+        <item itemvalue="Application.UnaryOperatorClass" />
+        <item itemvalue="Application.main (1)" />
+        <item itemvalue="Application.Functions" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="66ccf25b-da63-4236-a858-25bf59ea7688" name="Default Changelist" comment="" />
+      <created>1577010325013</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577010325013</updated>
+      <workItem from="1577010330668" duration="23149000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="23149000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1293" height="733" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20275751" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" weight="0.3283582" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.23627287" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/max.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LambdaExpressionsAndFunctionalInterfaces/DogExemple/sheep/SheepQuerier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LambdaExpressionsAndFunctionalInterfaces/DogExemple/sheep/Sheep.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LambdaExpressionsAndFunctionalInterfaces/DogExemple/sheep/main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LambdaExpressionsAndFunctionalInterfaces/DogExemple/lambdas/DogPlay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#160#161#0" expanded="true" />
+            <element signature="e#204#205#0" expanded="true" />
+            <element signature="e#278#279#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LambdaExpressionsAndFunctionalInterfaces/DogExemple/lambdas/DogQuerier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LambdaExpressionsAndFunctionalInterfaces/DogExemple/lambdas/main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LambdaExpressionsAndFunctionalInterfaces/DogExemple/lambdas/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="e#312#313#0" expanded="true" />
+            <element signature="e#342#343#0" expanded="true" />
+            <element signature="e#373#374#0" expanded="true" />
+            <element signature="e#400#401#0" expanded="true" />
+            <element signature="e#440#441#0" expanded="true" />
+            <element signature="e#472#473#0" expanded="true" />
+            <element signature="e#502#503#0" expanded="true" />
+            <element signature="e#531#532#0" expanded="true" />
+            <element signature="e#572#573#0" expanded="true" />
+            <element signature="e#608#609#0" expanded="true" />
+            <element signature="e#117#118#0" expanded="true" />
+            <element signature="e#143#144#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LambdaExpressionsAndFunctionalInterfaces/DogExemple/FunctionalInterfases/Consumer/main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="49" column="12" selection-start-line="49" selection-start-column="12" selection-end-line="49" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LambdaExpressionsAndFunctionalInterfaces/DogExemple/FunctionalInterfases/Consumer/ConsumersClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="11" column="67" lean-forward="true" selection-start-line="11" selection-start-column="67" selection-end-line="11" selection-end-column="67" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#703#704#0" expanded="true" />
+            <element signature="e#628#629#0" expanded="true" />
+            <element signature="e#664#665#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LambdaExpressionsAndFunctionalInterfaces/DogExemple/FunctionalInterfases/Consumer/Dog/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="44" column="33" selection-start-line="44" selection-start-column="33" selection-end-line="44" selection-end-column="33" />
+          <folding>
+            <element signature="e#369#370#0" expanded="true" />
+            <element signature="e#396#397#0" expanded="true" />
+            <element signature="e#436#437#0" expanded="true" />
+            <element signature="e#468#469#0" expanded="true" />
+            <element signature="e#495#496#0" expanded="true" />
+            <element signature="e#521#522#0" expanded="true" />
+            <element signature="e#556#557#0" expanded="true" />
+            <element signature="e#586#587#0" expanded="true" />
+            <element signature="e#616#617#0" expanded="true" />
+            <element signature="e#645#646#0" expanded="true" />
+            <element signature="e#686#687#0" expanded="true" />
+            <element signature="e#722#723#0" expanded="true" />
+            <element signature="e#760#761#0" expanded="true" />
+            <element signature="e#786#787#0" expanded="true" />
+            <element signature="e#862#863#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LambdaExpressionsAndFunctionalInterfaces/DogExemple/FunctionalInterfases/Consumer/Dog/DogsConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="25" column="11" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LambdaExpressionsAndFunctionalInterfaces/DogExemple/FunctionalInterfases/Predicate/DogQuerier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LambdaExpressionsAndFunctionalInterfaces/DogExemple/FunctionalInterfases/Supplier/main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LambdaExpressionsAndFunctionalInterfaces/DogExemple/FunctionalInterfases/Supplier/SocketClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LambdaExpressionsAndFunctionalInterfaces/DogExemple/FunctionalInterfases/Predicate/main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="24" column="68" selection-start-line="24" selection-start-column="68" selection-end-line="24" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LambdaExpressionsAndFunctionalInterfaces/DogExemple/FunctionalInterfases/Predicate/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="42" column="40" selection-start-line="42" selection-start-column="40" selection-end-line="42" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LambdaExpressionsAndFunctionalInterfaces/DogExemple/FunctionalInterfases/Predicate/TestDogPredicate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="84" column="61" selection-start-line="84" selection-start-column="61" selection-end-line="84" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LambdaExpressionsAndFunctionalInterfaces/DogExemple/FunctionalInterfases/Predicate/IntPredicateExampl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LambdaExpressionsAndFunctionalInterfaces/DogExemple/FunctionalInterfases/Predicate/Book.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+          <folding>
+            <element signature="e#204#205#0" expanded="true" />
+            <element signature="e#232#233#0" expanded="true" />
+            <element signature="e#274#275#0" expanded="true" />
+            <element signature="e#308#309#0" expanded="true" />
+            <element signature="e#339#340#0" expanded="true" />
+            <element signature="e#366#367#0" expanded="true" />
+            <element signature="e#406#407#0" expanded="true" />
+            <element signature="e#438#439#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LambdaExpressionsAndFunctionalInterfaces/DogExemple/FunctionalInterfases/Predicate/BiPredicateExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="23" column="11" lean-forward="true" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/myapp/IO/mainIO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/myapp/IO/mainPaths.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/function/BiFunction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="43" column="35" selection-start-line="43" selection-start-column="35" selection-end-line="43" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LambdaExpressionsAndFunctionalInterfaces/DogExemple/FunctionalInterfases/Function/BifunctionClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LambdaExpressionsAndFunctionalInterfaces/DogExemple/FunctionalInterfases/Function/Functions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-263">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LambdaExpressionsAndFunctionalInterfaces/DogExemple/FunctionalInterfases/Function/main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="17" column="37" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LambdaExpressionsAndFunctionalInterfaces/DogExemple/FunctionalInterfases/diff/UnaryOparator/UnaryOperatorClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LambdaExpressionsAndFunctionalInterfaces/DogExemple/FunctionalInterfases/diff/MethodReference/main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LambdaExpressionsAndFunctionalInterfaces/DogExemple/FunctionalInterfases/diff/MethodReference/MethodRefs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#556#557#0" expanded="true" />
+            <element signature="e#592#593#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LambdaExpressionsAndFunctionalInterfaces/DogExemple/FunctionalInterfases/diff/MethodReference/TriPredicate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/LambdaExpressionsAndFunctionalInterfaces/DogExemple/FunctionalInterfases/diff/MethodReference/RunnableClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>OCP_11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
